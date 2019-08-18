@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.22",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FF7_Sin_V2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
